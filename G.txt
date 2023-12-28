@@ -252,6 +252,7 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/aiqiyi.js"
+			"jar": "./YSC.jar;md5;c253e1930a210fa5141e5418f1f90949"
         },
         {
             "key": "优酷",
@@ -259,6 +260,7 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/youku.js"
+			"jar": "./YSC.jar"
         },
         {
             "key": "腾讯",
