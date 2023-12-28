@@ -1,7 +1,6 @@
 ﻿{
 "spider":"./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;3a1219034ed657f925c606543689b8cf",
 "spider": "./lib/dj0.jar",
-"spider": "./YSC.jar;md5;c253e1930a210fa5141e5418f1f90949",
 
 "spider": "./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
  
@@ -229,53 +228,9 @@
       "ext": "https://www.kuin.one/api.php/app/"
     },
 
-{
-	"key": "🥝奇奇🥝",
-    "name": "🥝奇奇🥝",
-	"type": 3,
-	"api": "./lib/drpy2.min.js",
-	"ext": "./lib/奇珍异兽.js"
-	},
-{"key": "drpy_js_优酷","name": "🥦酷酷🥦","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/优酷.js"},
-{"key": "drpy_js_腾云驾雾","name": "🍓腾腾🍓","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/腾云驾雾.js"},
-{"key": "drpy_js_百忙无果","name": "🍋芒果🍋","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/百忙无果.js"},
-{"key": "drpy_js_奇珍异兽","name": "奇珍异兽.js","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/奇珍异兽.js"},
-{"key": "drpy_js_优酷","name": "优酷[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/优酷.js"},
-{"key": "drpy_js_腾云驾雾","name": "腾云驾雾[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/腾云驾雾.js"},
-{"key": "drpy_js_百忙无果","name": "百忙无果[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/百忙无果.js"},
+   
 		
 {"key":"橘子","name":"🍊橘子","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
-
-{
-            "key": "爱奇异",
-            "name": "🚛爱奇艺(官)",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/aiqiyi.js"
-			"jar": "./YSC.jar;md5;c253e1930a210fa5141e5418f1f90949"
-        },
-        {
-            "key": "优酷",
-            "name": "🚛优酷(官)",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/youku.js"
-			"jar": "./YSC.jar"
-        },
-        {
-            "key": "腾讯",
-            "name": "🚛腾讯(官)",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/tengxun.js"
-        },
-        {
-            "key": "芒果",
-            "name": "🚛芒果(官)",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/mangguo.js"
-        },
 
 {"key":"豆豆","name":"🌕豆瓣推荐","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"玩偶哥哥","name":"👽玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
