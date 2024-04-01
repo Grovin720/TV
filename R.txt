@@ -477,7 +477,7 @@
 {"key":"哔哩健身","name":"📚哔哩健身","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/哔哩健身.json"},
 {"key":"哔哩美食","name":"📚哔哩美食","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/哔哩美食.json"},
 {"key":"哔哩兴趣","name":"📚哔哩兴趣","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/哔哩兴趣.json"},
-
+{ "key": "js_博看听书","name": "📚️听书┃博看","type": 3,"api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js","ext": "https://gitee.com/grovin/sj/raw/master/js/bokan.js" },
 		{
 			"key": "csp_xml_天空",
 			"name": "🌞天空",
