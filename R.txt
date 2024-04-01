@@ -477,78 +477,77 @@
 {"key":"哔哩健身","name":"📚哔哩健身","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/哔哩健身.json"},
 {"key":"哔哩美食","name":"📚哔哩美食","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/哔哩美食.json"},
 {"key":"哔哩兴趣","name":"📚哔哩兴趣","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/哔哩兴趣.json"},
-       {
+ {
             "key": "js_i275听书",
             "name": "📚️听书┃i275",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/i275.js"
+            "ext": "https://gitee.com/grovin/sj/raw/master/js/i275.js"
         },
         {
             "key": "js_博看听书",
             "name": "📚️听书┃博看",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/bokan.js",
-            "jar": "./XYQTVbox/custom_spider.jar"
+            "ext": "https://gitee.com/grovin/sj/raw/master/js/bokan.js",
         },
         {
             "key": "js_海洋听书",
             "name": "📚️听书┃海洋",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/sea.js"
+            "ext": "https://gitee.com/grovin/sj/raw/master/js/sea.js"
         },
         {
             "key": "js_六月听书",
             "name": "📚️听书┃六月",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/6yue.js"
+            "ext": "https://gitee.com/grovin/sj/raw/master/js/6yue.js"
         },
         {
             "key": "js_听书网",
             "name": "📚️听书┃天天",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/tingshu.js"
+            "ext": "https://gitee.com/grovin/sj/raw/master/js/tingshu.js"
         },
         {
             "key": "js_有声小说",
             "name": "📚️听书┃有声",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js",
             "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "./js/yousheng.js"
+            "ext": "https://gitee.com/grovin/sj/raw/master/js/yousheng.js"
         },
 
 		{
