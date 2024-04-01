@@ -419,7 +419,10 @@
       }
     },
     {      "key": "高清资源网",      "name": "️💮1080采集",      "type": 1,      "api": "https://api.1080zyku.com/inc/apijson.php",      "playUrl": "https://vip.zykbf.com/?url=",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "categories": [        "动作片",        "喜剧片",        "爱情片",        "科幻片",        "恐怖片",        "剧情片",        "战争片",        "记录片",        "国产剧",        "欧美剧",        "日本剧",        "泰国剧",        "韩国剧",        "台湾剧",        "香港剧",        "大陆综艺",        "港台综艺",        "日韩综艺",        "欧美综艺",        "国产动漫",        "日韩动漫",        "欧美动漫",        "倫理片",        "福利"      ]    },
-
+{"key":"爱奇异","name":"🚛爱奇艺(官)","type":3,"api":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/aiqiyi.js"},
+{"key":"优酷","name":"🚛优酷(官)","type":3,"api":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/youku.js"},
+{"key":"腾讯","name":"🚛腾讯(官)","type":3,"api":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/tengxun.js"},
+{"key":"芒果","name":"🚛芒果(官)","type":3,"api":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/mangguo.js"},
 
 	{
 			"key": "相声小品",
@@ -474,78 +477,6 @@
 {"key":"哔哩健身","name":"📚哔哩健身","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/哔哩健身.json"},
 {"key":"哔哩美食","name":"📚哔哩美食","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/哔哩美食.json"},
 {"key":"哔哩兴趣","name":"📚哔哩兴趣","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/哔哩兴趣.json"},
- {
-            "key": "js_i275听书",
-            "name": "📚️听书┃i275",
-            "type": 3,
-            "api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js",
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "ext": "https://gitee.com/grovin/sj/raw/master/js/i275.js"
-        },
-        {
-            "key": "js_博看听书",
-            "name": "📚️听书┃博看",
-            "type": 3,
-            "api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js",
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "ext": "https://gitee.com/grovin/sj/raw/master/js/bokan.js",
-        },
-        {
-            "key": "js_海洋听书",
-            "name": "📚️听书┃海洋",
-            "type": 3,
-            "api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js",
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "ext": "https://gitee.com/grovin/sj/raw/master/js/sea.js"
-        },
-        {
-            "key": "js_六月听书",
-            "name": "📚️听书┃六月",
-            "type": 3,
-            "api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js",
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "ext": "https://gitee.com/grovin/sj/raw/master/js/6yue.js"
-        },
-        {
-            "key": "js_听书网",
-            "name": "📚️听书┃天天",
-            "type": 3,
-            "api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js",
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "ext": "https://gitee.com/grovin/sj/raw/master/js/tingshu.js"
-        },
-        {
-            "key": "js_有声小说",
-            "name": "📚️听书┃有声",
-            "type": 3,
-            "api": "https://gitee.com/grovin/sj/raw/master/api/drpy2.min.js",
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "ext": "https://gitee.com/grovin/sj/raw/master/js/yousheng.js"
-        },
 
 		{
 			"key": "csp_xml_天空",
