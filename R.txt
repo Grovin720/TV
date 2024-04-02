@@ -481,6 +481,11 @@
             "name": "📚️听书┃i275",
             "type": 3,
             "api": "https://agit.ai/grovin/sj/raw/branch/master/lib/drpy2.min.js",
+                        "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
             "ext": "https://agit.ai/grovin/sj/raw/branch/master/lib/i275.js"
         },
         { "key": "js_博看听书","name": "📚️听书┃博看","type": 3,"api": "https://agit.ai/grovin/sj/raw/branch/master/lib/drpy2.min.js","ext": "https://agit.ai/grovin/sj/raw/branch/master/lib/bokan.js" },
@@ -489,6 +494,11 @@
             "name": "📚️听书┃海洋",
             "type": 3,
             "api": "https://agit.ai/grovin/sj/raw/branch/master/lib/drpy2.min.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
             "ext": "https://agit.ai/grovin/sj/raw/branch/master/lib/sea.js"
         },
         {
