@@ -1,9 +1,10 @@
 {"urls": [
+{"url": "https://gitee.com/grovin/sj/raw/master/G.txt","name": "👑GROVIN👑"},
 {"url": "https://agit.ai/grovin/sj/raw/branch/master/G.txt","name": "👑GROVIN👑"},
+{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "🌟南风🌟"},
 {"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz","name": "🌟夜猫子🌟"},
 {"url": "https://tvkj.top/DC/ysc/tvkj/svip.json","name": "🚀运输车🚛"},
 {"url": "http://xn--yety82d.love/","name": "🌟肥猫🌟"},
-{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "🌟南风🌟"},
 {"url": "http://meowtv.cn/tv","name": "🌟喵影视🌟"},
 {"url": "http://饭太硬.top/tv","name": "🌟饭太硬🌟"},
 {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌","name": "💖学习娱乐💖"},
@@ -33,6 +34,7 @@
 {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌","name": "📢家庭线路📢"},
 {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌","name": "💚阿里4k-token线路2💚"},
 {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&321&b=欧歌","name": "👇网络线路👇"},
-{"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌","name": "📢收集无排名📢"}
+{"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌","name": "📢收集无排名📢"},
+{"url": "https://agit.ai/grovin/sj/raw/branch/master/R.txt","name": "👑GROVIN👑"}
 ]
 }
