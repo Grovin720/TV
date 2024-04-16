@@ -7,7 +7,7 @@
 {"url": "http://meowtv.cn/tv","name": "🌟喵影视🌟"},
 {"url": "http://饭太硬.top/tv","name": "🌟饭太硬🌟"},
 {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌","name": "💖学习娱乐💖"},
-{"url": "https://raw.liucn.cc/box/m.json","name": "🌟老刘备🌟"},
+{"url": "https://raw.kkgithub.com/liu673cn/box/main/m.json","name": "🌟老刘备🌟"},
 {"url": "http://xhww.fun:63/小米/DEMO.json","name": "🌟小米🌟"},
 {"url": "http://pandown.pro/tvbox/tvbox.json","name": "🐼巧技🐼"},
 {"url": "https://tvbox.cainisi.cf","name": "🌟菜妮丝🌟"},
