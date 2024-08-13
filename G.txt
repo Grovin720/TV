@@ -39,6 +39,8 @@
 				"体育赛事"
 			]
 },
+{"key":"南瓜","name":"🎃南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+    {      "key": "高清资源网",      "name": "️💮1080采集",      "type": 1,      "api": "https://api.1080zyku.com/inc/apijson.php",      "playUrl": "https://vip.zykbf.com/?url=",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "categories": [        "动作片",        "喜剧片",        "爱情片",        "科幻片",        "恐怖片",        "剧情片",        "战争片",        "记录片",        "国产剧",        "欧美剧",        "日本剧",        "泰国剧",        "韩国剧",        "台湾剧",        "香港剧",        "大陆综艺",        "港台综艺",        "日韩综艺",        "欧美综艺",        "国产动漫",        "日韩动漫",        "欧美动漫",       ]    },
 {
             "key": "996",
             "name": "🎆篮光秒播",
@@ -53,7 +55,6 @@
         },
 {"key":"csp_Bdys","name":"🐞哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar": "./XYQTVbox/custom_spider.jar"},
 {"key":"csp_Ddys","name":"🐞低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "./XYQTVbox/custom_spider.jar"},
-{"key":"南瓜","name":"🎃南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
 {"key":"豆豆","name":"🌕豆瓣推荐","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"Bili","name":"🅱哔哩","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/grovin/sj/raw/branch/master/lib/bilibili.json"},
@@ -418,7 +419,7 @@
         "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
       }
     },
-    {      "key": "高清资源网",      "name": "️💮1080采集",      "type": 1,      "api": "https://api.1080zyku.com/inc/apijson.php",      "playUrl": "https://vip.zykbf.com/?url=",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "categories": [        "动作片",        "喜剧片",        "爱情片",        "科幻片",        "恐怖片",        "剧情片",        "战争片",        "记录片",        "国产剧",        "欧美剧",        "日本剧",        "泰国剧",        "韩国剧",        "台湾剧",        "香港剧",        "大陆综艺",        "港台综艺",        "日韩综艺",        "欧美综艺",        "国产动漫",        "日韩动漫",        "欧美动漫",       ]    },
+
 {"key":"爱奇异","name":"🚛爱奇艺(官)","type":3,"api":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/aiqiyi.js"},
 {"key":"优酷","name":"🚛优酷(官)","type":3,"api":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/youku.js"},
 {"key":"腾讯","name":"🚛腾讯(官)","type":3,"api":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/yumorer/ysc/raw/branch/master/lib/tengxun.js"},
