@@ -1,0 +1,40 @@
+# This workflow syncs changes from the Gitee repository to the GitHub repository at a specified time.
+
+name: Sync from Gitee to GitHub
+
+on:
+  schedule:
+  - cron: '30 15 * * *'  # 每天 15:30 运行
+
+jobs:
+  sync-repo:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 允许写入仓库内容
+
+    steps:
+    - name: Checkout GitHub Repository
+      uses: actions/checkout@v3
+      with:
+        repository: Grovin720/TV
+        ref: main  # 你希望同步的目标分支
+
+    - name: Set up Git
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+
+    - name: Fetch Gitee Repository
+      run: |
+        git remote add gitee https://gitee.com/grovin/sj.git
+        git fetch gitee main  # 假设 Gitee 仓库的主分支也是 main
+
+    - name: Merge Gitee Changes
+      run: |
+        git merge gitee/main --no-commit --no-ff
+        if [ -z "$(git status --porcelain)" ]; then
+          echo "No changes to merge."
+        else
+          git commit -m "Sync from Gitee"
+          git push origin main
+        fi
